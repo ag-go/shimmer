@@ -10,6 +10,8 @@ Image transformation in wasm using Go.
 
 Just a demo project done on a weekend to play with images inside the browser using WASM. Performance lag is noticeable for images over 100KB.
 
+[Website that explains it all.](https://blog.gopheracademy.com/advent-2018/go-in-the-browser/)
+
 ### Setup
 
 - Run `make build-prod`
